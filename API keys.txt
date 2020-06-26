@@ -1,0 +1,8 @@
+API key
+a661c1b3dbd81e14e49ce4945b4d0460
+
+Token API id (v4 auth)
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJhNjYxYzFiM2RiZDgxZTE0ZTQ5Y2U0OTQ1YjRkMDQ2MCIsInN1YiI6IjU5ZjM4NzhhOTI1MTQxMjIyMjAxOGIyOCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.u9aDs6KY19XoikUzJLGNHSn0fhBI2Xy5DnoDqrAoEkc
+
+Παράδειγμα αίτησης API
+https://api.themoviedb.org/3/movie/550?api_key=a661c1b3dbd81e14e49ce4945b4d0460
